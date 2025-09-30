@@ -230,6 +230,4 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 <img src="./luffye.gif" alt="Luffy Animation" width="400" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=WAEL%20LOUATI&fontSize=20&fontColor=00F5FF&animation=twinkling"/>
-
 </div>
