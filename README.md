@@ -2,24 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi;Welcome+to+my+Profile" alt="Animated Introduction" />
 
-```
-┌─────────────────── CONSOLE OUTPUT ───────────────────┐
-│                                                      │
-│  $ whoami                                            │
-│  > Wael Louati - Full-Stack Developer               │
-│                                                      │
-│  $ cat about.txt                                     │
-│  > Passionate about creating scalable solutions     │
-│  > Always exploring new technologies                │
-│  > Committed to continuous learning                 │
-│                                                      │
-│  $ current_status                                    │
-│  > Status: CODING ⚡                                │
-│  > Focus: Building amazing applications             │
-│  > Next: Mastering cloud architecture + AI           │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<!-- Luffy GIF from repository -->
+<img src="./luffyw.gif" alt="Luffy Animation" width="400" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=const+developer+=+{;++name:+'Wael+Louati',;++role:+'Full-Stack+Developer',;++passion:+'Always+Learning';}" alt="Code Animation" />
 
@@ -243,7 +229,7 @@
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
-
+<img src="./luffye.gif" alt="Luffy Animation" width="400" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=WAEL%20LOUATI&fontSize=20&fontColor=00F5FF&animation=twinkling"/>
 
 </div>
