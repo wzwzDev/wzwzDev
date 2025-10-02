@@ -20,7 +20,8 @@
 ╭─[ DEVELOPER STATUS ]─────────────────╮
 │ 🧠 Mind: FOCUSED                     │
 │ ⚡ Energy Level: ████████ 100%       │
-│ 🔧 Current Stack: Next.js + Spring   │
+│ 🔧 Current Stack: Next.js + Angular  │
+│     + Spring Boot                    │
 │ 🌐 Deployment: CONTINUOUS            │
 │ ☕ Coffee Status: ████████ FUELED    │
 ╰───────────────────────────────────────╯
@@ -29,8 +30,8 @@
 </td>
 <td align="center">
 
-[![Coding](https://img.shields.io/badge/Currently%20Coding-⚡%20Next.js%2015%20%2B%20Spring%20Boot-00F5FF?style=for-the-badge&labelColor=000000)](https://github.com/wzwzDev)
-[![Learning](https://img.shields.io/badge/Learning-🧠%20AWS%20Cloud%20%2B%20System%20Design-FF6B00?style=for-the-badge&labelColor=000000)](https://github.com/wzwzDev)
+[![Coding](https://img.shields.io/badge/Currently%20Coding-⚡%20Next.js-00F5FF?style=for-the-badge&labelColor=000000)](https://github.com/wzwzDev)
+[![Learning](https://img.shields.io/badge/Learning-🧠%20AWS%20Cloud%20%2B%20AI-FF6B00?style=for-the-badge&labelColor=000000)](https://github.com/wzwzDev)
 
 </td>
 </tr>
