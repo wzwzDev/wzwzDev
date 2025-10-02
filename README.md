@@ -117,12 +117,6 @@
 </a>
 
 </div>
-
-<p align="center">
-  <strong>🎯 Certified API Developer • AWS Certified Professional</strong><br>
-  <em>Always pursuing: System Design • Cloud Architecture • DevOps Excellence</em>
-</p>
-
 ---
 
 ## 📊 ADVANCED GITHUB ANALYTICS
