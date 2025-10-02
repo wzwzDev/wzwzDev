@@ -112,11 +112,14 @@
 <a href="https://badgr.com/public/assertions/5vZPFCoyQZ6V2jTTQbq8lQ" target="_blank">
   <img src="./assets/badges/postman.png" alt="Postman API Fundamentals Student Expert" width="120"/>
 </a>
+<a href="#" target="_blank">
+  <img src="./assets/badges/aws.png" alt="AWS Certification" width="120"/>
+</a>
 
 </div>
 
 <p align="center">
-  <strong>🎯 Certified API Developer • Preparing for AWS Cloud Practitioner</strong><br>
+  <strong>🎯 Certified API Developer • AWS Certified Professional</strong><br>
   <em>Always pursuing: System Design • Cloud Architecture • DevOps Excellence</em>
 </p>
 
