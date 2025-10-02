@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi;Welcome+to+my+Profile" alt="Animated Introduction" />
 
 <!-- Luffy GIF from repository -->
-<img src="./luffyw.gif" alt="Luffy Animation" width="400" />
+<img src="./assets/images/luffyw.gif" alt="Luffy Animation" width="400" />
 
 </div>
 
@@ -110,7 +110,7 @@
 <div align="center">
 
 <a href="https://badgr.com/public/assertions/5vZPFCoyQZ6V2jTTQbq8lQ" target="_blank">
-  <img src="https://api.badgr.io/public/assertions/5vZPFCoyQZ6V2jTTQbq8lQ/image" alt="Postman API Fundamentals Student Expert" width="120"/>
+  <img src="./assets/badges/postman.png" alt="Postman API Fundamentals Student Expert" width="120"/>
 </a>
 
 </div>
@@ -229,5 +229,5 @@
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
-<img src="./luffye.gif" alt="Luffy Animation" width="400" />
+<img src="./assets/images/luffye.gif" alt="Luffy Animation" width="400" />
 </div>
